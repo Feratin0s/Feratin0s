@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Oi, eu sou o Arthur!
+
+- 🎓 Estudante de Engenharia na **UFPE**  
+- 💻 Apaixonado por **IoT, automação e desenvolvimento web**  
+- ⚙️ Tecnologias que uso no dia a dia: **C++, Python, Node.js, Docker e JavaScript**  
+- 🚀 Fundador da **[Artifex Tech](https://www.artifextech.com.br)** — empresa focada em soluções tecnológicas inovadoras  
+- 📫 Contato: **arthurdealmeidaferraz1@gmail.com**
+
+
 
 <!--
 **Feratin0s/Feratin0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

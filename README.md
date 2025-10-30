@@ -1,4 +1,4 @@
-## 👋 Oi, eu sou o Arthur!
+## 👋 Oi, sou o Arthur!
 
 - 🎓 Estudante de Engenharia na **UFPE**  
 - 💻 Apaixonado por **IoT, automação e desenvolvimento web**  
